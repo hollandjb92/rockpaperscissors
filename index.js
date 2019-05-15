@@ -22,7 +22,6 @@ document.addEventListener("keydown", function (event) {
       break;
     default:
       console.log(playerChoice);
-      console.log(opponentChoice);
   }
 
   if ((playerChoice === "r" && opponentChoice === "Scissors") || (playerChoice === "p" && opponentChoice === "Rock") || (playerChoice === "s" && opponentChoice === "Paper")) {

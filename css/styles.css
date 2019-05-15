@@ -1,5 +1,5 @@
 body {
-  background-color: #fff;
+  background-color: #ffffff;
 }
 
 img {
@@ -15,7 +15,7 @@ p {
 h1 {
   font-family: 'Lobster', cursive;
   font-size: 7rem;
-  margin: 20px;
+  margin: 1.25rem;
 }
 
 .container {
@@ -27,4 +27,8 @@ h1 {
 .rps {
   display: inline-block;
   text-align: center;
+}
+
+.rps:first-of-type {
+  margin-right: 6.25rem;
 }
