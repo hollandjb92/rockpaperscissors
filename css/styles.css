@@ -32,3 +32,9 @@ h1 {
 .rps:first-of-type {
   margin-right: 6.25rem;
 }
+
+.scores {
+  position: absolute;
+  top: 0;
+  left: 20px;
+}
