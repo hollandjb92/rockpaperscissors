@@ -1,0 +1,40 @@
+body {
+  background-color: #ffffff;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+
+p {
+  font-size: 2rem;
+  font-family: "Indie Flower", cursive;
+}
+
+h1 {
+  font-family: 'Lobster', cursive;
+  font-size: 7rem;
+  margin: 1.25rem;
+}
+
+.container {
+  width: 70%;
+  text-align: center;
+  margin: auto;
+}
+
+.rps {
+  display: inline-block;
+  text-align: center;
+}
+
+.rps:first-of-type {
+  margin-right: 6.25rem;
+}
+
+.scores {
+  position: absolute;
+  top: 0;
+  left: 20px;
+}
